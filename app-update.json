@@ -2,6 +2,6 @@
   "versionCode": 2,
   "versionName": "1.0.19",
   "apkUrl": "https://github.com/eskayHome/sanchar-releases/releases/download/latest/sanchar-iptv.apk",
-  "changelog": "• Direct backup to /sdcard/Download/ and /sdcard/Documents/\n• Export/Import backups to USB drives\n• Fast playlist sync (25s)\n• Split view channel browsing in Live TV\n• In-app OTA auto-updates via public release channel",
-  "publishedAt": "2026-11-10T23:45:00Z"
+  "changelog": "• Direct backup to /sdcard/Download/ and /sdcard/Documents/\n• Export/Import backups to USB drives\n• Fast playlist sync (25s)\n• Split view channel browsing in Live TV\n• In-app OTA auto-updates",
+  "publishedAt": "2026-11-10T23:30:00Z"
 }
