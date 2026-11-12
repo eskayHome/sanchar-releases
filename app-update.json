@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.19",
+  "versionCode": 3,
+  "versionName": "1.0.20",
   "apkUrl": "https://github.com/eskayHome/sanchar-releases/releases/download/latest/sanchar-iptv.apk",
-  "changelog": "• Direct backup to /sdcard/Download/ and /sdcard/Documents/\n• Export/Import backups to USB drives\n• Fast playlist sync (25s)\n• Split view channel browsing in Live TV\n• In-app OTA auto-updates",
-  "publishedAt": "2026-11-10T23:30:00Z"
+  "changelog": "• Separate Continue Watching rows for Movies and TV Shows\n• Up Next functionality for TV Series across seasons\n• Interactive Up Next card overlay with countdown timer and autoplayback\n• Quick Resume and Up Next badges in Series details and Episode list",
+  "publishedAt": "2026-11-12T21:00:00Z"
 }
