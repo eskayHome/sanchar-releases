@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.20",
+  "versionCode": 4,
+  "versionName": "1.0.21",
   "apkUrl": "https://github.com/eskayHome/sanchar-releases/releases/download/latest/sanchar-iptv.apk",
-  "changelog": "• Separate Continue Watching rows for Movies and TV Shows\n• Up Next functionality for TV Series across seasons\n• Interactive Up Next card overlay with countdown timer and autoplayback\n• Quick Resume and Up Next badges in Series details and Episode list",
-  "publishedAt": "2026-11-12T21:00:00Z"
+  "changelog": "• Fix setup restore from empty main screen with full file browsing fallback\n• Multi-version backup picker allowing selection of previous snapshots\n• Clean single-backup storage: replaces existing versions with confirmation prompt before overwriting",
+  "publishedAt": "2026-11-13T12:00:00Z"
 }
